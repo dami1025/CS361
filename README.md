@@ -2,7 +2,7 @@
 
 ## Communication Contract
 
-1. Main communication is though discord, though phone numbers are also exchanged in case we
+1. Main communication is through discord, though phone numbers are also exchanged in case we
 can’t reach one another online.
 2. After the first messages, we must reply within 8 hours. If no reply is made the person sending
 the message will reach out by phone.
