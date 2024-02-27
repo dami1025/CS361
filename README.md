@@ -42,7 +42,7 @@ The microservice will respond to your request with a JSON object containing the 
   "id": 1,
   "name": "Randomized Item"
 }
-####
+```
 
 
 3. UML sequence diagram showing how requesting and receiving data works.
