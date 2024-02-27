@@ -42,6 +42,11 @@ The microservice will respond to your request with a JSON object containing the 
   "id": 1,
   "name": "Randomized Item"
 }
+####
 
-3. Feel free to reach out if you have any questions or need further assistance.
+
+3. UML sequence diagram showing how requesting and receiving data works.
+<img width="826" alt="Screenshot 2024-02-26 at 10 07 39 PM" src="https://github.com/dami1025/CS361/assets/107777891/a739c7cc-19b6-4638-8932-38b5dd00b67f">
+
+4. Feel free to reach out if you have any questions or need further assistance.
 
