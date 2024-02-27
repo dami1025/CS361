@@ -21,8 +21,6 @@ To programmatically request data from the microservice, follow these steps:
 1. Make an HTTP GET request to the following endpoint:
 http://localhost:3000/api/getRandomItem
 
-csharp
-Copy code
 
 2. The microservice will respond with a JSON object containing a single randomly selected item from the provided list.
 
@@ -40,11 +38,10 @@ fetch('http://localhost:3000/api/getRandomItem')
 Receiving Data:
 The microservice will respond to your request with a JSON object containing the randomly selected item. The structure of the response will be similar to the following:
 
-json
-Copy code
 {
   "id": 1,
   "name": "Randomized Item"
 }
-Feel free to reach out if you have any questions or need further assistance.
+
+3. Feel free to reach out if you have any questions or need further assistance.
 
